@@ -6,4 +6,4 @@ I'm teaching github to the Fall 2015 bootcamp. WOO!
 
 HI GUY AND GUY 
 
-![Marge Simpson](http://giphy.com/gifs/computer-tired-marge-simpson-xTiTnwXHKlBpcdWbHG.gif)
+![Marge Simpson](http://giphy.com/gifs/computer-tired-marge-simpson-xTiTnwXHKlBpcdWbHG)
